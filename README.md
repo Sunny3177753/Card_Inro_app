@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 # Card_Inro_app
 2nd assignment of TuteDude.
 >>>>>>> 1d37b6890df3e8f593715682a4807efa6e233b48
+> 
+> ### Screenshot
+![Card_App](screenshots/img.png)
