@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # intro_card_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Card_Inro_app
+2nd assignment of TuteDude.
+>>>>>>> 1d37b6890df3e8f593715682a4807efa6e233b48
