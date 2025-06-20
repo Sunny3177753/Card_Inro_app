@@ -29,7 +29,7 @@ class CardConnect extends StatelessWidget {
               IntroCard(
                   name: "Sunny",
                   title: "Flutter ",
-                  desc: "I is a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
+                  desc: "I am a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
                       " I enjoys exploring Flutter widgets and Dart to bring simple UI ideas to life."
               ),
 
@@ -38,7 +38,7 @@ class CardConnect extends StatelessWidget {
               IntroCard(
                   name: "John Doe",
                   title: "Flutter ",
-                  desc: "I is a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
+                  desc: "I am a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
                       " I enjoys exploring Flutter widgets and Dart to bring simple UI ideas to life."
               ),
 
@@ -47,7 +47,7 @@ class CardConnect extends StatelessWidget {
               IntroCard(
                   name: "Vibhav",
                   title: "Flutter ",
-                  desc: "I is a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
+                  desc: "I am a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
                       " I enjoys exploring Flutter widgets and Dart to bring simple UI ideas to life."
               ),
 
@@ -56,7 +56,7 @@ class CardConnect extends StatelessWidget {
               IntroCard(
                   name: "Virat",
                   title: "Flutter ",
-                  desc: "I is a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
+                  desc: "I am a beginner Flutter developer with a strong interest in creating clean and responsive mobile applications."
                       " I enjoys exploring Flutter widgets and Dart to bring simple UI ideas to life."
               ),
 
